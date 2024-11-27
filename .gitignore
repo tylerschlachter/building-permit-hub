@@ -38,3 +38,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# etl
+/etl/venv
+/etl/etl/log
+/etl/data
+
+# pycache
+__pycache__*
